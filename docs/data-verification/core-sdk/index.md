@@ -7,17 +7,17 @@ title: Core SDK
 
 > Core SDK is for integrating data verification into **backend servers**, verifying data through webpage endpoint responses.
 
-## 🎯 Use Cases
+##  Use Cases
 
-- ✅ Backend servers need to verify user data
-- ✅ Repeated verification without additional calls
-- ✅ Enterprise application integration
+-  Backend servers need to verify user data
+-  Repeated verification without additional calls
+-  Enterprise application integration
 
 **Note**: For frontend dApp integration, see [zkTLS SDK Guide](../zk-tls-sdk/index)
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Step 1: Create Project
 
@@ -85,7 +85,7 @@ try {
 
 ---
 
-## 📋 Core Concepts
+##  Core Concepts
 
 ### Two Verification Modes
 
@@ -108,21 +108,21 @@ Core SDK requires authorization token to request private data:
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ```
-┌─────────────┐    ┌──────────────┐    ┌─────────────┐
-│1. Create    │───▶│2. Configure  │───▶│3. Execute   │
-│   Project   │    │   Parameters │    │   Protocol  │
-│Get credentials│  │Set verification│ │Call SDK     │
-└─────────────┘    └──────────────┘    └─────────────┘
-                                          │
-                                          ▼
-┌─────────────┐    ┌──────────────┐    ┌─────────────┐
-│6. Business  │◀───│5. Verify     │◀───│4. Get       │
-│   Logic     │    │   Signature  │    │   Results   │
-│Submit etc.  │    │Confirm trust │    │Verify data  │
-└─────────────┘    └──────────────┘    └─────────────┘
+
+
+
+
+
+                                          
+                                          
+
+
+
+
+
 ```
 
 ### Detailed Steps
@@ -155,7 +155,7 @@ Core SDK requires authorization token to request private data:
 
 ---
 
-## 📖 Related Documentation
+##  Related Documentation
 
 - [Simple Example](./simple-example) - Complete code example
 - [Installation](./installation) - Detailed installation steps
@@ -167,18 +167,18 @@ Core SDK requires authorization token to request private data:
 
 ### Security Best Practices
 
-- 🔒 Store `appSecret` only on backend server
-- 🔒 Never expose `appSecret` to frontend
-- 🔒 Use environment variables for sensitive information
+-  Store `appSecret` only on backend server
+-  Never expose `appSecret` to frontend
+-  Use environment variables for sensitive information
 
 ### Performance Optimization
 
-- ⚡ Supports repeated verification without additional calls
-- ⚡ Configure caching strategies appropriately
-- ⚡ Batch verification requests
+-  Supports repeated verification without additional calls
+-  Configure caching strategies appropriately
+-  Batch verification requests
 
 ---
 
-## 📞 Get Help
+##  Get Help
 
 Need help? Join our [Discord Community](https://discord.gg/AYGSqCkZTz) for technical support!

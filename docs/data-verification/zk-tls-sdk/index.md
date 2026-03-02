@@ -7,17 +7,17 @@ title: zkTLS SDK
 
 > zkTLS SDK is for integrating data verification into **frontend dApps**, allowing users to verify their own off-chain data.
 
-## 🎯 Use Cases
+##  Use Cases
 
-- ✅ Frontend applications (React, Vue, vanilla JS, etc.)
-- ✅ User needs to verify personal data
-- ✅ dApp interaction with off-chain data
+-  Frontend applications (React, Vue, vanilla JS, etc.)
+-  User needs to verify personal data
+-  dApp interaction with off-chain data
 
 **Note**: For backend server integration, see [Core SDK Guide](../core-sdk/index)
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Step 1: Install SDK
 
@@ -64,7 +64,7 @@ console.log('View transaction:', `https://bascan.io/attestation/${txHash}`);
 
 ---
 
-## 📋 Complete Example
+##  Complete Example
 
 ```javascript
 import MPCTLSJSSDK from "@padolabs/mpctls-js-sdk";
@@ -109,16 +109,16 @@ async function verifyUserData() {
 
 ---
 
-## 📋 Parameter Details
+##  Parameter Details
 
 ### startAttestation Parameters
 
 | Parameter | Type | Required | Description |
 |-----------|------|----------|-------------|
-| `chainID` | number | ✅ | Blockchain ID, select from `supportedChainList` |
-| `walletAddress` | string | ✅ | User wallet address |
-| `attestationTypeID` | string | ✅ | Attestation type ID, from `supportedAttestationTypeList` |
-| `attestationParameters` | string[] | ✅ | Verification parameters, based on attestation type |
+| `chainID` | number |  | Blockchain ID, select from `supportedChainList` |
+| `walletAddress` | string |  | User wallet address |
+| `attestationTypeID` | string |  | Attestation type ID, from `supportedAttestationTypeList` |
+| `attestationParameters` | string[] |  | Verification parameters, based on attestation type |
 
 ### Supported Chains (Example)
 
@@ -149,9 +149,9 @@ sdk.supportedAttestationTypeList
 
 ### Development Environment
 
-- ✅ Works directly for local debugging
-- ✅ No domain registration required
-- ✅ Requires Primus browser extension (v0.3.15+)
+-  Works directly for local debugging
+-  No domain registration required
+-  Requires Primus browser extension (v0.3.15+)
 
 ### Production Environment
 
@@ -169,7 +169,7 @@ Users need Primus browser extension for MPC-TLS mode:
 
 ---
 
-## 🔧 Error Handling
+##  Error Handling
 
 ### Common Error Codes
 
@@ -203,7 +203,7 @@ try {
 
 ---
 
-## 📖 Related Documentation
+##  Related Documentation
 
 - [Installation](./installation) - Detailed installation steps
 - [Parameter Examples](./example) - Detailed parameter guide
@@ -211,6 +211,6 @@ try {
 
 ---
 
-## 📞 Get Help
+##  Get Help
 
 Need help? Join our [Discord Community](https://discord.gg/AYGSqCkZTz) for technical support!

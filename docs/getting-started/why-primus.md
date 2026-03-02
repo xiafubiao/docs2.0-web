@@ -7,29 +7,29 @@ title: Why Primus?
 
 Primus offers unique advantages for developers and network participants:
 
-## 🌐 Chain-Agnostic
+##  Chain-Agnostic
 
 Primus' data verification and computation capabilities are **blockchain-independent**:
 
-- ✅ Support for multiple blockchains (Ethereum, L2, Arbitrum, etc.)
-- ✅ dApps can interact seamlessly across chains
-- ✅ Bridge the gap between off-chain and on-chain data
-- ✅ Enable more diverse, data-driven applications
+-  Support for multiple blockchains (Ethereum, L2, Arbitrum, etc.)
+-  dApps can interact seamlessly across chains
+-  Bridge the gap between off-chain and on-chain data
+-  Enable more diverse, data-driven applications
 
 **What it means**: Your application won't be locked into a single chain; you can freely choose the most suitable blockchain.
 
-## 🔓 Openness
+##  Openness
 
 Primus' core technologies are **open to all developers**:
 
 - 🆓 Free to use core SDKs and APIs
-- 🤝 Encourages multi-community collaboration (cryptography, distributed systems, DeFi, AI, etc.)
-- 📖 Open-source documentation and examples
+-  Encourages multi-community collaboration (cryptography, distributed systems, DeFi, AI, etc.)
+-  Open-source documentation and examples
 - 💬 Active Discord community support
 
 **What it means**: Anyone can build on Primus without permission.
 
-## ⚡ High Performance
+##  High Performance
 
 ### zkTLS Performance Breakthrough
 
@@ -51,21 +51,21 @@ Core technology: [QuickSilver](https://eprint.iacr.org/2021/076) interactive zer
 
 **What it means**: Performance improvements bring privacy-preserving technology from theory to practice.
 
-## 🎯 Core Value Summary
+##  Core Value Summary
 
 ```
 ┌─────────────────────────────────────────────────────┐
 │              Why Choose Primus?                     │
 ├─────────────────────────────────────────────────────┤
-│  🌐 Chain-Agnostic → Choose your chain freely       │
-│  🔓 Openness → Free to use, no permission needed    │
-│  ⚡ Performance → 10-340x faster, production-ready  │
-│  🔒 Privacy → Verify data without exposing it       │
-│  💰 Cost-Effective → Lower verification costs       │
+│   Chain-Agnostic → Choose your chain freely       │
+│   Openness → Free to use, no permission needed    │
+│   Performance → 10-340x faster, production-ready  │
+│   Privacy → Verify data without exposing it       │
+│   Cost-Effective → Lower verification costs       │
 └─────────────────────────────────────────────────────┘
 ```
 
-## 📖 Next Steps
+##  Next Steps
 
 - [Quick Start](./quick-start) - 5-minute getting started guide
 - [What is Primus?](./what-is-primus) - Learn about Primus' mission

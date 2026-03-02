@@ -7,13 +7,13 @@ title: Data Computation Use Cases
 
 Explore real-world applications of Primus zkFHE technology.
 
-## 📋 Overview
+##  Overview
 
 Primus zkFHE enables privacy-preserving computation on encrypted data across various industries.
 
 ---
 
-## 🗳️ Confidential Voting
+##  Confidential Voting
 
 ### Private Elections
 
@@ -25,9 +25,9 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Prove correctness without revealing individual votes
 
 **Benefits**:
-- 🗳️ Voter privacy guaranteed
-- ✅ Verifiable results
-- 🔒 Tamper-proof
+-  Voter privacy guaranteed
+-  Verifiable results
+-  Tamper-proof
 
 ---
 
@@ -42,12 +42,12 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 
 **Benefits**:
 - 🏛️ Private governance
-- 🤝 Fair decision making
-- 📊 Transparent results
+-  Fair decision making
+-  Transparent results
 
 ---
 
-## 🏦 Financial Applications
+##  Financial Applications
 
 ### Confidential Auctions
 
@@ -59,8 +59,8 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Reveal only winning bid
 
 **Benefits**:
-- 🤐 Bid privacy
-- 🎯 Fair pricing
+-  Bid privacy
+-  Fair pricing
 - 🚫 No bid sniffing
 
 ---
@@ -75,13 +75,13 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Execute without revealing intent
 
 **Benefits**:
-- 📈 No market impact
-- 🔒 Strategy protection
-- ⚡ Fast execution
+-  No market impact
+-  Strategy protection
+-  Fast execution
 
 ---
 
-## 🤖 AI & Machine Learning
+##  AI & Machine Learning
 
 ### Privacy-Preserving ML
 
@@ -93,9 +93,9 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Prove training correctness
 
 **Benefits**:
-- 🧠 AI without privacy risk
-- 📊 Data utilization
-- 🔐 Regulatory compliance
+-  AI without privacy risk
+-  Data utilization
+-  Regulatory compliance
 
 ---
 
@@ -109,13 +109,13 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Verify aggregation correctness
 
 **Benefits**:
-- 🔄 Collaborative learning
-- 🔒 Update privacy
-- ✅ Verifiable aggregation
+-  Collaborative learning
+-  Update privacy
+-  Verifiable aggregation
 
 ---
 
-## 🏥 Healthcare
+##  Healthcare
 
 ### Medical Research
 
@@ -127,7 +127,7 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Publish results without exposing data
 
 **Benefits**:
-- 🏥 HIPAA compliant
+-  HIPAA compliant
 - 🔬 Research enabled
 - 👤 Patient privacy
 
@@ -143,13 +143,13 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Share insights without raw data
 
 **Benefits**:
-- 🧬 Privacy preserved
-- 📈 Research acceleration
+-  Privacy preserved
+-  Research acceleration
 - 🌍 Global collaboration
 
 ---
 
-## 📊 Data Marketplaces
+##  Data Marketplaces
 
 ### Secure Data Sharing
 
@@ -161,9 +161,9 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Buyers verify before purchase
 
 **Benefits**:
-- 💰 Data monetization
-- 🔒 Seller protection
-- ✅ Buyer confidence
+-  Data monetization
+-  Seller protection
+-  Buyer confidence
 
 ---
 
@@ -177,13 +177,13 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Share only aggregate results
 
 **Benefits**:
-- 📊 Collaborative insights
-- 🔐 Data sovereignty
-- 🤝 Trustless collaboration
+-  Collaborative insights
+-  Data sovereignty
+-  Trustless collaboration
 
 ---
 
-## 🎮 Gaming
+##  Gaming
 
 ### Game State Computation
 
@@ -195,9 +195,9 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Reveal only necessary outcomes
 
 **Benefits**:
-- 🎮 Fair gameplay
-- 🔒 Strategy privacy
-- ⚡ Off-chain computation
+-  Fair gameplay
+-  Strategy privacy
+-  Off-chain computation
 
 ---
 
@@ -211,13 +211,13 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Verifiable randomness
 
 **Benefits**:
-- 🎲 Provable fairness
-- 🔐 Algorithm protection
-- ✅ Player trust
+-  Provable fairness
+-  Algorithm protection
+-  Player trust
 
 ---
 
-## 🔐 FHE Rollups
+##  FHE Rollups
 
 ### Scalable Private Computation
 
@@ -229,13 +229,13 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 - Scale while preserving privacy
 
 **Benefits**:
-- 📈 Scalability
-- 💰 Cost reduction
-- 🔒 Privacy preserved
+-  Scalability
+-  Cost reduction
+-  Privacy preserved
 
 ---
 
-## 🎯 Get Started
+##  Get Started
 
 Ready to build with Primus?
 
@@ -243,6 +243,6 @@ Ready to build with Primus?
 - [Quick Start](../01-Getting-Started/quick-start) - Getting started guide
 - [Developer Hub](../03-Data-Verification/developer-hub) - Project setup
 
-## 📞 Need Help?
+##  Need Help?
 
 Join our [Discord Community](https://discord.gg/AYGSqCkZTz) for support!

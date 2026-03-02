@@ -9,7 +9,7 @@ Complete list of error codes for Primus SDKs.
 
 ---
 
-## 🔧 General Errors
+##  General Errors
 
 | Error Code | Situation | Solution |
 |------------|-----------|----------|
@@ -26,7 +26,7 @@ Complete list of error codes for Primus SDKs.
 
 ---
 
-## 🌐 Data Source Related Errors
+##  Data Source Related Errors
 
 | Error Code | Situation | Solution |
 |------------|-----------|----------|
@@ -35,7 +35,7 @@ Complete list of error codes for Primus SDKs.
 
 ---
 
-## 🔐 zkTLS Related Errors
+##  zkTLS Related Errors
 
 | Error Code | Situation | Solution |
 |------------|-----------|----------|
@@ -53,7 +53,7 @@ Complete list of error codes for Primus SDKs.
 
 ---
 
-## 📋 Troubleshooting Guide
+##  Troubleshooting Guide
 
 ### SDK Initialization Issues
 
@@ -102,7 +102,7 @@ Complete list of error codes for Primus SDKs.
 
 ---
 
-## 📞 Get Help
+##  Get Help
 
 For error codes not listed here or persistent issues:
 

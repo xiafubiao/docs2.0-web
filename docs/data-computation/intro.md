@@ -7,7 +7,7 @@ title: Introduction to Data Computation
 
 > Privacy-preserving computation with zkFHE technology
 
-## 🎯 Overview
+##  Overview
 
 Primus Data Computation Network enables secure, verifiable computation on encrypted data using zkFHE (Zero-Knowledge Fully Homomorphic Encryption) technology.
 
@@ -18,7 +18,7 @@ Primus Data Computation Network enables secure, verifiable computation on encryp
 - **Scalable**: Distributed worker network for parallel computation
 - **Chain-Agnostic**: Works across multiple blockchains
 
-## 👥 Network Roles
+##  Network Roles
 
 | Role | Function | Incentive |
 |------|----------|-----------|
@@ -26,7 +26,7 @@ Primus Data Computation Network enables secure, verifiable computation on encryp
 | **Worker** | Executes computation | Earns computation fees |
 | **Caller** | Initiates tasks | Gets private computation results |
 
-## 🔄 Computation Modes
+##  Computation Modes
 
 ### Single-Key FHE
 - User encrypts data with own key
@@ -43,7 +43,7 @@ Primus Data Computation Network enables secure, verifiable computation on encryp
 - Best for selective worker computation
 - Flexible worker selection
 
-## 📊 Workflow Summary
+##  Workflow Summary
 
 ```
 1. Worker Registration → 2. Task Submission → 3. Data Upload
@@ -53,12 +53,12 @@ Primus Data Computation Network enables secure, verifiable computation on encryp
                         4. zkFHE Computation
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 - [Quick Start](../01-Getting-Started/quick-start) - Overall getting started guide
 - [zkFHE Network Architecture](../02-Core-Concepts/zkfhe-network) - Technical deep dive
 - [Computation Use Cases](../05-Use-Cases/computation-use-cases) - Real-world applications
 
-## 📞 Need Help?
+##  Need Help?
 
 Join our [Discord Community](https://discord.gg/AYGSqCkZTz) for support!

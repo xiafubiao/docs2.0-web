@@ -7,7 +7,7 @@ title: zkTLS Explained
 
 > zkTLS (Zero-Knowledge TLS) is a cryptographic technology that verifies the authenticity of TLS data without exposing the data itself.
 
-## 🎯 Core Concept
+##  Core Concept
 
 **zkTLS = TLS + Zero-Knowledge Proofs**
 
@@ -16,7 +16,7 @@ title: zkTLS Explained
 
 **Simple analogy**: Like proving to a bartender you're over 18 without showing your ID card's specific details (name, address, etc.).
 
-## 🏗️ Two Operating Modes
+##  Two Operating Modes
 
 Primus provides two zkTLS modes, each with trade-offs:
 
@@ -36,9 +36,9 @@ Primus provides two zkTLS modes, each with trade-offs:
 3. Client cannot control or modify TLS data before attestor sends its key share
 
 **Advantages**:
-- 🔒 **Highest security**: Client cannot tamper with data
-- ✅ **Trustless**: No need to trust a single attestor
-- 🚀 **High performance**: Uses QuickSilver interactive ZK proof system
+-  **Highest security**: Client cannot tamper with data
+-  **Trustless**: No need to trust a single attestor
+-  **High performance**: Uses QuickSilver interactive ZK proof system
 
 **Disadvantages**:
 - Slightly higher computational overhead (requires MPC protocol)
@@ -63,27 +63,27 @@ Primus provides two zkTLS modes, each with trade-offs:
 3. At session end, client must prove to attestor it knows the plaintext underlying the ciphertexts
 
 **Advantages**:
-- ⚡ **Better performance**: Avoids MPC protocol overhead
-- 📊 **Simpler**: More intuitive architecture
+-  **Better performance**: Avoids MPC protocol overhead
+-  **Simpler**: More intuitive architecture
 
 **Disadvantages**:
-- 🔐 **Additional trust**: Attestor must ensure it's connecting to the correct server
+-  **Additional trust**: Attestor must ensure it's connecting to the correct server
 
 **Use cases**: Large-scale data verification, performance-sensitive scenarios
 
 ---
 
-## 📊 Mode Comparison
+##  Mode Comparison
 
 | Feature | MPC Mode | Proxy Mode |
 |---------|----------|------------|
-| Security | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Performance | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| Security |  |  |
+| Performance |  |  |
 | Trustlessness | Complete | Partial |
 | Computational Overhead | Medium | Low |
 | Recommended For | High security | High performance |
 
-## 🔧 Unified API
+##  Unified API
 
 Primus' advantage is providing a **unified API**, allowing developers to freely choose modes:
 
@@ -95,28 +95,28 @@ const config = {
 };
 ```
 
-## 📈 Technical Advantages
+##  Technical Advantages
 
 ### QuickSilver Interactive Zero-Knowledge Proofs
 
 Innovative system developed by Primus team:
-- 🚀 **10x performance** vs traditional solutions
-- 📱 **Wide compatibility**: Browsers and mobile apps
-- 💾 **Large-scale proofs**: Can prove ChatGPT conversations and more
+-  **10x performance** vs traditional solutions
+-  **Wide compatibility**: Browsers and mobile apps
+-  **Large-scale proofs**: Can prove ChatGPT conversations and more
 
 ### Key Derivation Function (KDF) Proofs
 
 Unique advantage of Primus' Proxy mode:
-- ✅ Proves KDFs during TLS connection establishment
-- ✅ No extra padding needed, more general
-- ✅ More efficient than traditional zk-SNARK solutions
+-  Proves KDFs during TLS connection establishment
+-  No extra padding needed, more general
+-  More efficient than traditional zk-SNARK solutions
 
-## 🎓 Technical Resources
+##  Technical Resources
 
 - **Technical Whitepaper**: [zkTLS Paper](https://eprint.iacr.org/2023/964)
 - **QuickSilver**: [Interactive ZK Proof System](https://eprint.iacr.org/2021/076)
 
-## 📖 Next Steps
+##  Next Steps
 
 - [zkFHE Network](./zkfhe-network) - Learn about encrypted computation
 - [Core SDK Integration](../03-Data-Verification/core-sdk/index) - Get started

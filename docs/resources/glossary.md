@@ -101,7 +101,7 @@ A cryptographic method that allows one party to prove they know a value without 
 
 ---
 
-## 📖 Learn More
+##  Learn More
 
 - [What is Primus?](../01-Getting-Started/what-is-primus)
 - [zkTLS Explained](../02-Core-Concepts/zktls-explained)

@@ -1,13 +1,13 @@
 ---
 sidebar_position: 1
-title: 🚀 Quick Start
+title:  Quick Start
 ---
 
 # Quick Start Guide
 
 > Get started with Primus in 5 minutes
 
-## 🎯 Choose Your Integration
+##  Choose Your Integration
 
 Select the integration method that fits your use case:
 
@@ -82,7 +82,7 @@ if (verificationResult.valid) {
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have:
 
@@ -91,7 +91,7 @@ Before you begin, ensure you have:
 - [ ] [Primus Browser Extension](https://dev.primuslabs.xyz) (for MPC-TLS mode)
 - [ ] Project created in [Developer Hub](https://dev.primuslabs.xyz)
 
-## 🎯 Verification Flow Overview
+##  Verification Flow Overview
 
 ```
 ┌─────────────┐    ┌──────────────┐    ┌─────────────┐    ┌─────────────┐
@@ -109,8 +109,8 @@ Before you begin, ensure you have:
 ## ⚠️ Important Notes
 
 ### Development Environment
-- ✅ Local debugging works directly
-- ✅ No domain registration required for testing
+-  Local debugging works directly
+-  No domain registration required for testing
 
 ### Production Environment
 - ⚠️ **Domain registration required** for whitelist
@@ -126,11 +126,11 @@ Before you begin, ensure you have:
 
 **Full Error Codes**: [Error Code Reference](./06-Resources/error-codes)
 
-## 📞 Get Help
+##  Get Help
 
 Need help? Join our [Discord Community](https://discord.gg/AYGSqCkZTz) for technical support!
 
-## 📖 Next Steps
+##  Next Steps
 
 - [Core SDK Guide](./03-Data-Verification/core-sdk/index)
 - [zkTLS SDK Guide](./03-Data-Verification/zk-tls-sdk/index)

@@ -7,11 +7,11 @@ title: What is Primus?
 
 > Primus (formerly "PADO") is building the future of data interoperability, enabling secure, permissionless data verification and computation for blockchain and AI.
 
-## 🎯 Our Mission
+##  Our Mission
 
 Primus' mission is to enable secure, permissionless data verification and computation, connecting blockchain and AI ecosystems.
 
-## ❌ The Problems
+##  The Problems
 
 ### Blockchain's Dilemma
 - **Limited on-chain data**: Blockchains can only access on-chain data, unable to leverage rich Web2 data
@@ -23,7 +23,7 @@ Primus' mission is to enable secure, permissionless data verification and comput
 - **Security risks**: Concerns about data manipulation and privacy breaches
 - **Accountability gaps**: Difficult to trace the source of AI actions
 
-## ✅ Primus' Solution
+##  Primus' Solution
 
 We provide a **cryptographic layer** that securely connects off-chain data with blockchain and AI systems:
 
@@ -48,13 +48,13 @@ Primus focuses on two key innovations:
 
 Primus provides easy-to-use APIs, acting as a bridge between foundational blockchain/AI ecosystems and the applications built on top.
 
-## 📖 Next Steps
+##  Next Steps
 
 - [Why Primus?](./why-primus) - Learn about Primus' core advantages
 - [zkTLS Explained](../02-Core-Concepts/zktls-explained) - Deep dive into data verification
 - [zkFHE Network](../02-Core-Concepts/zkfhe-network) - Explore encrypted computation
 
-## 📚 Technical Resources
+##  Technical Resources
 
 - **zkTLS Whitepaper**: [Read Paper](https://eprint.iacr.org/2023/964)
 - **QuickSilver**: [Interactive ZK Proof System](https://eprint.iacr.org/2021/076)

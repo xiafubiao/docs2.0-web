@@ -7,13 +7,13 @@ title: Data Verification Use Cases
 
 Explore real-world applications of Primus zkTLS technology.
 
-## 📋 Overview
+##  Overview
 
 Primus zkTLS enables secure, privacy-preserving data verification across various industries and applications.
 
 ---
 
-## 💰 DeFi & Lending
+##  DeFi & Lending
 
 ### Proof of Assets
 
@@ -25,9 +25,9 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 - Enables instant loan approval
 
 **Benefits**:
-- 🔒 Privacy preserved
-- ⚡ Instant verification
-- ✅ Fraud prevention
+-  Privacy preserved
+-  Instant verification
+-  Fraud prevention
 
 ---
 
@@ -41,8 +41,8 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 - User controls what to share
 
 **Benefits**:
-- 📊 Accurate assessment
-- 🔐 Data privacy
+-  Accurate assessment
+-  Data privacy
 - 👤 User control
 
 ---
@@ -59,9 +59,9 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 - One-time verification, multiple uses
 
 **Benefits**:
-- 🆔 Privacy-preserving KYC
-- 🔄 Reusable credentials
-- ✅ Reduced fraud
+-  Privacy-preserving KYC
+-  Reusable credentials
+-  Reduced fraud
 
 ---
 
@@ -75,13 +75,13 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 - Build trusted social graphs
 
 **Benefits**:
-- 🤖 Bot prevention
-- 📈 Authentic engagement
-- 🔗 Cross-platform reputation
+-  Bot prevention
+-  Authentic engagement
+-  Cross-platform reputation
 
 ---
 
-## 🛡️ Security & Fraud Prevention
+##  Security & Fraud Prevention
 
 ### Fraud Detection
 
@@ -94,8 +94,8 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 
 **Benefits**:
 - 🚨 Real-time detection
-- 🔒 Transaction privacy
-- 📉 Reduced fraud losses
+-  Transaction privacy
+-  Reduced fraud losses
 
 ---
 
@@ -109,13 +109,13 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 - Escrow-free secure trading
 
 **Benefits**:
-- 🤝 Trustless trading
-- ⚡ Faster settlement
-- 💰 Lower costs
+-  Trustless trading
+-  Faster settlement
+-  Lower costs
 
 ---
 
-## 🎮 Gaming & Creator Economy
+##  Gaming & Creator Economy
 
 ### Gaming Achievements
 
@@ -127,9 +127,9 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 - Cross-game reputation system
 
 **Benefits**:
-- 🏆 Verifiable achievements
-- 🎮 Cross-platform portability
-- 💎 True ownership
+-  Verifiable achievements
+-  Cross-platform portability
+-  True ownership
 
 ---
 
@@ -143,13 +143,13 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 - Trusted sponsorship negotiations
 
 **Benefits**:
-- 📊 Verified metrics
-- 💰 Fair compensation
-- 🔒 Privacy preserved
+-  Verified metrics
+-  Fair compensation
+-  Privacy preserved
 
 ---
 
-## 🏥 Healthcare & Research
+##  Healthcare & Research
 
 ### Private Datasets
 
@@ -161,13 +161,13 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 - Compliant data sharing
 
 **Benefits**:
-- 🏥 HIPAA compliant
+-  HIPAA compliant
 - 🔬 Research enabled
 - 👤 Patient privacy
 
 ---
 
-## 🤖 Automation & Integration
+##  Automation & Integration
 
 ### Automated Verification
 
@@ -179,13 +179,13 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 - Smart contract integration
 
 **Benefits**:
-- ⚡ Instant verification
-- 🔄 Automated workflows
-- 💻 Developer friendly
+-  Instant verification
+-  Automated workflows
+-  Developer friendly
 
 ---
 
-## 📊 Composable Attestations
+##  Composable Attestations
 
 ### Multi-Source Verification
 
@@ -198,12 +198,12 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 
 **Benefits**:
 - 🧩 Modular design
-- 🔗 Composable proofs
-- 📈 Scalable architecture
+-  Composable proofs
+-  Scalable architecture
 
 ---
 
-## 🎯 Get Started
+##  Get Started
 
 Ready to build with Primus?
 
@@ -211,6 +211,6 @@ Ready to build with Primus?
 - [SDK Integration](../03-Data-Verification/zk-tls-sdk/index) - Technical guide
 - [Developer Hub](../03-Data-Verification/developer-hub) - Project setup
 
-## 📞 Need Help?
+##  Need Help?
 
 Join our [Discord Community](https://discord.gg/AYGSqCkZTz) for support!

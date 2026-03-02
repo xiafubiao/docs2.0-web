@@ -7,13 +7,13 @@ title: Developer Hub
 
 > Primus Developer Hub is the unified platform for managing projects, obtaining API credentials, and configuring verification parameters.
 
-## 🌐 Access URL
+##  Access URL
 
 [https://dev.primuslabs.xyz](https://dev.primuslabs.xyz)
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Step 1: Register/Login
 
@@ -48,15 +48,15 @@ After creation, you'll receive:
 
 ---
 
-## 📋 Project Management
+##  Project Management
 
 ### Project List
 
 In the project list, you can:
-- ✅ View all projects
-- ✅ Search for specific projects
-- ✅ Access project details
-- ✅ Create new projects
+-  View all projects
+-  Search for specific projects
+-  Access project details
+-  Create new projects
 
 ### Project Details
 
@@ -81,7 +81,7 @@ Each project contains:
 
 ---
 
-## 🔧 Verification Configuration
+##  Verification Configuration
 
 ### Request Parameters Configuration
 
@@ -125,7 +125,7 @@ Choose verification type based on business needs:
 
 ---
 
-## 📊 Usage Statistics
+##  Usage Statistics
 
 ### Real-time Data
 
@@ -146,14 +146,14 @@ Support CSV/Excel format usage reports export.
 
 ---
 
-## 🔒 Security Best Practices
+##  Security Best Practices
 
 ### Credential Management
 
-- 🔒 **appSecret shown only once**, save immediately after creation
-- 🔒 Never commit appSecret to code repository
-- 🔒 Use environment variables for credentials
-- 🔒 Reset appSecret periodically
+-  **appSecret shown only once**, save immediately after creation
+-  Never commit appSecret to code repository
+-  Use environment variables for credentials
+-  Reset appSecret periodically
 
 ### Domain Whitelist
 
@@ -168,7 +168,7 @@ Production environment requires domain whitelist configuration:
 
 ---
 
-## 📖 Related Documentation
+##  Related Documentation
 
 - [Core SDK Integration](./core-sdk/index) - Backend server integration
 - [zkTLS SDK Integration](./zk-tls-sdk/index) - Frontend dApp integration
@@ -176,6 +176,6 @@ Production environment requires domain whitelist configuration:
 
 ---
 
-## 📞 Get Help
+##  Get Help
 
 Need help? Join our [Discord Community](https://discord.gg/AYGSqCkZTz) for technical support!

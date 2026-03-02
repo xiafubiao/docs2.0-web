@@ -7,7 +7,7 @@ title: zkFHE Network
 
 > zkFHE (Zero-Knowledge Fully Homomorphic Encryption) enables computation directly on encrypted data, where the decrypted result matches what would be obtained from computing on the original data.
 
-## 🎯 Core Concept
+##  Core Concept
 
 **zkFHE = Zero-Knowledge Proofs + Fully Homomorphic Encryption**
 
@@ -16,7 +16,7 @@ title: zkFHE Network
 
 **Simple analogy**: Like locking data in a safe where others can operate machines to process the data from outside the safe, but never see the data itself, and can prove the processing was done correctly.
 
-## 💡 Why zkFHE?
+##  Why zkFHE?
 
 ### The Data Value vs Privacy Dilemma
 
@@ -24,16 +24,16 @@ title: zkFHE Network
 ┌─────────────────────────────────────────────────────┐
 │              The Data Utilization Paradox           │
 ├─────────────────────────────────────────────────────┤
-│  💰 Data has value → Needs to be utilized           │
-│  🔒 Privacy needed → Cannot be exposed              │
+│   Data has value → Needs to be utilized           │
+│   Privacy needed → Cannot be exposed              │
 │  ❓ How to balance? → zkFHE provides solution       │
 └─────────────────────────────────────────────────────┘
 ```
 
 Existing solutions (zero-knowledge proofs, multi-party computation, etc.) cannot fully resolve:
-- ❌ The contradiction between privacy protection and data utilization
-- ❌ Trusted verification of computation processes
-- ❌ Efficient processing of large-scale data
+-  The contradiction between privacy protection and data utilization
+-  Trusted verification of computation processes
+-  Efficient processing of large-scale data
 
 ### zkFHE Advantages
 
@@ -44,7 +44,7 @@ Existing solutions (zero-knowledge proofs, multi-party computation, etc.) cannot
 | **Cryptographic Trustlessness** | No need to trust computation nodes |
 | **Privacy Protection** | Data remains encrypted; computors cannot see it |
 
-## 👥 Network Roles
+##  Network Roles
 
 ### 1. Data Provider
 
@@ -91,7 +91,7 @@ Existing solutions (zero-knowledge proofs, multi-party computation, etc.) cannot
 
 ---
 
-## 🏗️ Network Architecture
+##  Network Architecture
 
 ### Component Overview
 
@@ -127,7 +127,7 @@ Existing solutions (zero-knowledge proofs, multi-party computation, etc.) cannot
 
 ---
 
-## 🔄 Three Operating Modes
+##  Three Operating Modes
 
 Based on data encryption key classification, zkFHE has three execution modes:
 
@@ -169,7 +169,7 @@ Based on data encryption key classification, zkFHE has three execution modes:
 
 ---
 
-## 📊 Threshold FHE Workflow
+##  Threshold FHE Workflow
 
 ```
 ┌─────────────┐
@@ -246,7 +246,7 @@ Based on data encryption key classification, zkFHE has three execution modes:
 
 ---
 
-## 📈 Performance Advantages
+##  Performance Advantages
 
 | Metric | Primus zkFHE | Traditional |
 |--------|--------------|-------------|
@@ -256,7 +256,7 @@ Based on data encryption key classification, zkFHE has three execution modes:
 
 ---
 
-## 📖 Next Steps
+##  Next Steps
 
 - [Computation Use Cases](../05-Use-Cases/computation-use-cases) - Explore real-world applications
 - [Quick Start](../01-Getting-Started/quick-start) - Get started with Primus

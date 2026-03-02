@@ -13,7 +13,7 @@ title: zkTLS SDK
 - ✅ User needs to verify personal data
 - ✅ dApp interaction with off-chain data
 
-**Note**: For backend server integration, see [Core SDK Guide](../core-sdk/index.md)
+**Note**: For backend server integration, see [Core SDK Guide](../core-sdk/index)
 
 ---
 
@@ -199,15 +199,15 @@ try {
 }
 ```
 
-**Full Error Code List**: [Error Code Reference](../../06-Resources/error-codes.md)
+**Full Error Code List**: [Error Code Reference](../../06-Resources/error-codes)
 
 ---
 
 ## 📖 Related Documentation
 
-- [Installation](./installation.md) - Detailed installation steps
-- [Parameter Examples](./example.md) - Detailed parameter guide
-- [Error Codes](../../06-Resources/error-codes.md) - Complete error code list
+- [Installation](./installation) - Detailed installation steps
+- [Parameter Examples](./example) - Detailed parameter guide
+- [Error Codes](../../06-Resources/error-codes) - Complete error code list
 
 ---
 

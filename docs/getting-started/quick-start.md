@@ -43,7 +43,7 @@ const txHash = await sdk.sendToChain(result, window.ethereum);
 console.log(`Transaction: https://bascan.io/attestation/${txHash}`);
 ```
 
-**Full Guide**: [zkTLS SDK Integration](./03-Data-Verification/zk-tls-sdk/index.md)
+**Full Guide**: [zkTLS SDK Integration](./03-Data-Verification/zk-tls-sdk/index)
 
 ---
 
@@ -78,7 +78,7 @@ if (verificationResult.valid) {
 }
 ```
 
-**Full Guide**: [Core SDK Integration](./03-Data-Verification/core-sdk/index.md)
+**Full Guide**: [Core SDK Integration](./03-Data-Verification/core-sdk/index)
 
 ---
 
@@ -124,7 +124,7 @@ Before you begin, ensure you have:
 | Verification timeout | Check network, retry |
 | On-chain submit failed | Ensure wallet has sufficient gas |
 
-**Full Error Codes**: [Error Code Reference](./06-Resources/error-codes.md)
+**Full Error Codes**: [Error Code Reference](./06-Resources/error-codes)
 
 ## 📞 Get Help
 
@@ -132,6 +132,6 @@ Need help? Join our [Discord Community](https://discord.gg/AYGSqCkZTz) for techn
 
 ## 📖 Next Steps
 
-- [Core SDK Guide](./03-Data-Verification/core-sdk/index.md)
-- [zkTLS SDK Guide](./03-Data-Verification/zk-tls-sdk/index.md)
-- [Developer Hub](./03-Data-Verification/developer-hub.md)
+- [Core SDK Guide](./03-Data-Verification/core-sdk/index)
+- [zkTLS SDK Guide](./03-Data-Verification/zk-tls-sdk/index)
+- [Developer Hub](./03-Data-Verification/developer-hub)

@@ -55,9 +55,9 @@ Primus Data Computation Network enables secure, verifiable computation on encryp
 
 ## 🚀 Getting Started
 
-- [Quick Start](../01-Getting-Started/quick-start.md) - Overall getting started guide
-- [zkFHE Network Architecture](../02-Core-Concepts/zkfhe-network.md) - Technical deep dive
-- [Computation Use Cases](../05-Use-Cases/computation-use-cases.md) - Real-world applications
+- [Quick Start](../01-Getting-Started/quick-start) - Overall getting started guide
+- [zkFHE Network Architecture](../02-Core-Concepts/zkfhe-network) - Technical deep dive
+- [Computation Use Cases](../05-Use-Cases/computation-use-cases) - Real-world applications
 
 ## 📞 Need Help?
 

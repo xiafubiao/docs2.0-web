@@ -170,9 +170,9 @@ Production environment requires domain whitelist configuration:
 
 ## 📖 Related Documentation
 
-- [Core SDK Integration](./core-sdk/index.md) - Backend server integration
-- [zkTLS SDK Integration](./zk-tls-sdk/index.md) - Frontend dApp integration
-- [Error Codes](../06-Resources/error-codes.md) - Complete error code list
+- [Core SDK Integration](./core-sdk/index) - Backend server integration
+- [zkTLS SDK Integration](./zk-tls-sdk/index) - Frontend dApp integration
+- [Error Codes](../06-Resources/error-codes) - Complete error code list
 
 ---
 

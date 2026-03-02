@@ -118,6 +118,6 @@ Unique advantage of Primus' Proxy mode:
 
 ## 📖 Next Steps
 
-- [zkFHE Network](./zkfhe-network.md) - Learn about encrypted computation
-- [Core SDK Integration](../03-Data-Verification/core-sdk/index.md) - Get started
-- [Developer Hub](../03-Data-Verification/developer-hub.md) - Create project
+- [zkFHE Network](./zkfhe-network) - Learn about encrypted computation
+- [Core SDK Integration](../03-Data-Verification/core-sdk/index) - Get started
+- [Developer Hub](../03-Data-Verification/developer-hub) - Create project

@@ -50,9 +50,9 @@ Primus provides easy-to-use APIs, acting as a bridge between foundational blockc
 
 ## 📖 Next Steps
 
-- [Why Primus?](./why-primus.md) - Learn about Primus' core advantages
-- [zkTLS Explained](../02-Core-Concepts/zktls-explained.md) - Deep dive into data verification
-- [zkFHE Network](../02-Core-Concepts/zkfhe-network.md) - Explore encrypted computation
+- [Why Primus?](./why-primus) - Learn about Primus' core advantages
+- [zkTLS Explained](../02-Core-Concepts/zktls-explained) - Deep dive into data verification
+- [zkFHE Network](../02-Core-Concepts/zkfhe-network) - Explore encrypted computation
 
 ## 📚 Technical Resources
 

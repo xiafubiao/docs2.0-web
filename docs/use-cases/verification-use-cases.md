@@ -207,9 +207,9 @@ Primus zkTLS enables secure, privacy-preserving data verification across various
 
 Ready to build with Primus?
 
-- [Quick Start](../01-Getting-Started/quick-start.md) - 5-minute guide
-- [SDK Integration](../03-Data-Verification/zk-tls-sdk/index.md) - Technical guide
-- [Developer Hub](../03-Data-Verification/developer-hub.md) - Project setup
+- [Quick Start](../01-Getting-Started/quick-start) - 5-minute guide
+- [SDK Integration](../03-Data-Verification/zk-tls-sdk/index) - Technical guide
+- [Developer Hub](../03-Data-Verification/developer-hub) - Project setup
 
 ## 📞 Need Help?
 

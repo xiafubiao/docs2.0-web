@@ -13,7 +13,7 @@ title: Core SDK
 - ✅ Repeated verification without additional calls
 - ✅ Enterprise application integration
 
-**Note**: For frontend dApp integration, see [zkTLS SDK Guide](../zk-tls-sdk/index.md)
+**Note**: For frontend dApp integration, see [zkTLS SDK Guide](../zk-tls-sdk/index)
 
 ---
 
@@ -135,7 +135,7 @@ Core SDK requires authorization token to request private data:
 2. **Configure Verification Parameters**
    - Set request parameters (URL, method, headers)
    - Configure response data paths (JSONPath format)
-   - See [Simple Example](./simple-example.md)
+   - See [Simple Example](./simple-example)
 
 3. **Execute zkTLS Protocol**
    - Call SDK through server
@@ -157,9 +157,9 @@ Core SDK requires authorization token to request private data:
 
 ## 📖 Related Documentation
 
-- [Simple Example](./simple-example.md) - Complete code example
-- [Installation](./installation.md) - Detailed installation steps
-- [Developer Hub](../developer-hub.md) - Project management
+- [Simple Example](./simple-example) - Complete code example
+- [Installation](./installation) - Detailed installation steps
+- [Developer Hub](../developer-hub) - Project management
 
 ---
 

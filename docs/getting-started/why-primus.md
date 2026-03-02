@@ -67,6 +67,6 @@ Core technology: [QuickSilver](https://eprint.iacr.org/2021/076) interactive zer
 
 ## 📖 Next Steps
 
-- [Quick Start](./quick-start.md) - 5-minute getting started guide
-- [What is Primus?](./what-is-primus.md) - Learn about Primus' mission
-- [Explore Use Cases](../05-Use-Cases/verification-use-cases.md) - Real-world applications
+- [Quick Start](./quick-start) - 5-minute getting started guide
+- [What is Primus?](./what-is-primus) - Learn about Primus' mission
+- [Explore Use Cases](../05-Use-Cases/verification-use-cases) - Real-world applications

@@ -258,6 +258,6 @@ Based on data encryption key classification, zkFHE has three execution modes:
 
 ## 📖 Next Steps
 
-- [Computation Use Cases](../05-Use-Cases/computation-use-cases.md) - Explore real-world applications
-- [Quick Start](../01-Getting-Started/quick-start.md) - Get started with Primus
-- [What is Primus?](../01-Getting-Started/what-is-primus.md) - Review core concepts
+- [Computation Use Cases](../05-Use-Cases/computation-use-cases) - Explore real-world applications
+- [Quick Start](../01-Getting-Started/quick-start) - Get started with Primus
+- [What is Primus?](../01-Getting-Started/what-is-primus) - Review core concepts

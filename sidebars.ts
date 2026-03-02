@@ -4,7 +4,7 @@ const sidebars: SidebarsConfig = {
   docsSidebar: [
     {
       type: 'category',
-      label: '🚀 Getting Started',
+      label: 'Getting Started',
       items: [
         'getting-started/quick-start',
         'getting-started/what-is-primus',
@@ -13,7 +13,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '📚 Core Concepts',
+      label: 'Core Concepts',
       items: [
         'core-concepts/zktls-explained',
         'core-concepts/zkfhe-network',
@@ -21,7 +21,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '🔧 Data Verification',
+      label: 'Data Verification',
       items: [
         'data-verification/developer-hub',
         {
@@ -38,14 +38,14 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '💻 Data Computation',
+      label: 'Data Computation',
       items: [
         'data-computation/intro',
       ],
     },
     {
       type: 'category',
-      label: '🎯 Use Cases',
+      label: 'Use Cases',
       items: [
         'use-cases/verification-use-cases',
         'use-cases/computation-use-cases',
@@ -53,7 +53,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: '📖 Resources',
+      label: 'Resources',
       items: [
         'resources/error-codes',
         'resources/glossary',

@@ -239,9 +239,9 @@ Primus zkFHE enables privacy-preserving computation on encrypted data across var
 
 Ready to build with Primus?
 
-- [zkFHE Network](../02-Core-Concepts/zkfhe-network.md) - Technical overview
-- [Quick Start](../01-Getting-Started/quick-start.md) - Getting started guide
-- [Developer Hub](../03-Data-Verification/developer-hub.md) - Project setup
+- [zkFHE Network](../02-Core-Concepts/zkfhe-network) - Technical overview
+- [Quick Start](../01-Getting-Started/quick-start) - Getting started guide
+- [Developer Hub](../03-Data-Verification/developer-hub) - Project setup
 
 ## 📞 Need Help?
 

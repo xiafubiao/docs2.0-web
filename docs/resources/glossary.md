@@ -103,6 +103,6 @@ A cryptographic method that allows one party to prove they know a value without 
 
 ## 📖 Learn More
 
-- [What is Primus?](../01-Getting-Started/what-is-primus.md)
-- [zkTLS Explained](../02-Core-Concepts/zktls-explained.md)
-- [zkFHE Network](../02-Core-Concepts/zkfhe-network.md)
+- [What is Primus?](../01-Getting-Started/what-is-primus)
+- [zkTLS Explained](../02-Core-Concepts/zktls-explained)
+- [zkFHE Network](../02-Core-Concepts/zkfhe-network)
